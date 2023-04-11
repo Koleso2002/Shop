@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop200", "Shop200\Shop200.csproj", "{59703781-F6B5-4BFA-B0D8-873EF2EED843}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportLib", "SportLib\SportLib.csproj", "{976988DB-6FBC-4291-9ACF-93B5AC6656E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59703781-F6B5-4BFA-B0D8-873EF2EED843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59703781-F6B5-4BFA-B0D8-873EF2EED843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59703781-F6B5-4BFA-B0D8-873EF2EED843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59703781-F6B5-4BFA-B0D8-873EF2EED843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976988DB-6FBC-4291-9ACF-93B5AC6656E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976988DB-6FBC-4291-9ACF-93B5AC6656E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976988DB-6FBC-4291-9ACF-93B5AC6656E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976988DB-6FBC-4291-9ACF-93B5AC6656E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BFFC77A-03EF-4E6E-BF9B-DC45ADECA746}
+	EndGlobalSection
+EndGlobal
